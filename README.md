@@ -1,4 +1,4 @@
-# Incident Report & Remediation README for yummyrecipesforme.com
+# Incident Report & Remediation yummyrecipesforme.com
 
 ## Overview
 
